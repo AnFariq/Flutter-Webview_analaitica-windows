@@ -64,6 +64,6 @@ Kontribusi terbuka untuk siapa saja. Jika kamu memiliki ide atau perbaikan, sila
 
 ## 📬 Kontak
 
-Untuk pertanyaan atau kolaborasi, silakan hubungi melalui [GitHub Issues](https://github.com/AnFariq).
+Untuk pertanyaan atau kolaborasi, silakan hubungi melalui [GitHub Issues](https://github.com/AnFariq/Flutter-Webview_analaitica-windows/issues).
 
 ---
