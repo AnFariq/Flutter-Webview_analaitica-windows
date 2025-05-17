@@ -64,6 +64,6 @@ Kontribusi terbuka untuk siapa saja. Jika kamu memiliki ide atau perbaikan, sila
 
 ## 📬 Kontak
 
-Untuk pertanyaan atau kolaborasi, silakan hubungi melalui [GitHub Issues](https://github.com/username/analitica-windows-app/issues).
+Untuk pertanyaan atau kolaborasi, silakan hubungi melalui [GitHub Issues](https://github.com/AnFariq/analitica-windows-app/issues).
 
 ---
