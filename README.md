@@ -67,7 +67,3 @@ Kontribusi terbuka untuk siapa saja. Jika kamu memiliki ide atau perbaikan, sila
 Untuk pertanyaan atau kolaborasi, silakan hubungi melalui [GitHub Issues](https://github.com/username/analitica-windows-app/issues).
 
 ---
-
-Jika kamu ingin, aku juga bisa bantu buat ikon aplikasi atau file build `.exe`. Tinggal beri tahu saja!
-# Flutter-Webview_analaitica-windows
->>>>>>> 6350ab0b16a9abe14ad3e1fd0547ad7cedf67d1d
