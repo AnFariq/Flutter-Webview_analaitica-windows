@@ -1,4 +1,3 @@
-Berikut adalah template lengkap untuk file `README.md` yang bisa kamu gunakan di repositori GitHub proyek aplikasi Analitica untuk Windows dengan Flutter:
 
 ---
 
